@@ -1,4 +1,4 @@
-````markdown
+
 # File Import Automation System
 
 This Python script automates the import of structured text files into a Microsoft SQL Server database. It is designed for use in operational environments where recurring data drops (e.g., monthly vendor reports) need to be ingested, validated, and logged.
@@ -31,7 +31,7 @@ Install with:
 
 ```bash
 pip install pandas sqlalchemy pyodbc
-````
+
 
 ## File Structure
 
